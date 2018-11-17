@@ -17,7 +17,6 @@ body {
 }
 .btnherozo{
   background-color: white;
-  touch-callout: none;
   user-select: none;
   display: inline-block;
   border: .2em solid;
