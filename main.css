@@ -1,8 +1,22 @@
 h1{
   color: white;
-
+  text-align: center;
+  padding-bottom: 10%;
+  padding-top: 5%;
 }
+
 body{
-  background-color: black;
-  
+  background-color:#1d1c25;
+  font-family: Roboto, Bold Italic;
+}
+p{
+  color: #ffff;
+  text-align: center;
+  vertical-align: 50%;
+}
+.codeby{
+  text-align: center;
+  padding-bottom: 0%;
+  padding-top:20%; 
+  color: white;
 }
